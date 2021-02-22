@@ -1,4 +1,4 @@
-# lista_compras
+# Flutter - Lista de Compras
 
 A new Flutter project.
 
